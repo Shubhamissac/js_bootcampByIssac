@@ -3,7 +3,7 @@
 
 //  console.log(name + repoCount + " value")
 
-console.log(`my name is ${name} and i pushed ${repoCount} No. of repositories`)
+console.log(`my name is ${name} and i pushed ${repoCount} No. of repositories`)// this is called as string interpolation
 
 const gameName = new String(`issac9893`)
 
